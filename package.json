@@ -15,8 +15,7 @@
 		"type": "git",
 		"url": "http://github.com/bramstein/jslint"
 	}],
-	"directories": {
-		"lib": "lib",
-		"bin": "bin"
-	}
+	"dependencies": [
+		"fulljslint"
+	]
 }
